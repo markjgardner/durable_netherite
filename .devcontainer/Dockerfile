@@ -1,0 +1,1 @@
+FROM mcr.microsoft.com/azure-functions/dotnet:3.0-dotnet3-core-tools

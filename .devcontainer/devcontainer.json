@@ -1,0 +1,12 @@
+{
+  "extensions": [
+		"ms-azuretools.vscode-azurefunctions",
+		"summer.azure-event-hub-explorer",
+		"ms-dotnettools.csharp"
+	],
+	"dockerFile": "Dockerfile",
+	"forwardPorts": [
+		7071
+	],
+	"remoteUser": "vscode"
+}
